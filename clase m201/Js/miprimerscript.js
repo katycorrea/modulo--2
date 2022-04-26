@@ -68,11 +68,11 @@ console.log (pago);
 //ejercicio 2 año nacimiento
 
 77
-//var agnoNacimiento = prompt ("ingrese su año de nacimiento")
-//var edad = 2022- agnoNacimiento;
-//var mayoredad = Number (agnoNacimiento) + 18
-//alert("su edad es " + edad)
-//alert ("usted cumplio 18 años en:" + mayoredad); //---
+var agnoNacimiento = prompt ("ingrese su año de nacimiento")
+var edad = 2022- agnoNacimiento;
+var mayoredad = Number (agnoNacimiento) + 18
+alert("su edad es " + edad)
+alert ("usted cumplio 18 años en:" + mayoredad); 
 
 
 
