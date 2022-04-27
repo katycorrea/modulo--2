@@ -29,16 +29,16 @@
  //.......................
 
 //  let str = "";
-// let msj = "jaja!";
-// let esGracioso = "false";
-// console.log ((str || msj) && esGracioso);
+// // let msj = "jaja!";
+//  let esGracioso = "false";
+//  console.log ((str || msj) && esGracioso);
 
 
 
 
 
-////.............
 
-// let edad =prompt("cual es su edad");
-// alert(edad>=18? "usted es mayor de edad":"usted es menor de edad");
+
+  let edad =prompt("cual es su edad");
+  alert(edad>=18? "usted es mayor de edad":"usted es menor de edad");
 ///::::::::::::::::::::::
